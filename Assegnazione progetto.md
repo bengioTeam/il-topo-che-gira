@@ -1,5 +1,6 @@
 # Assegnazione Progetto
 
+
 ## scacchi
 * Applicazione per il gioco 2 players degli scacchi, con interfaccia a linea di comando (CLI)
 * Le mosse sono descritte
